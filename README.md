@@ -27,3 +27,5 @@ usuários, excluir usuários.
 ## Front end
 - HTML / CSS / JavaScript
 - Bootstrap
+##Padrão
+-Feito em padrão MVC
