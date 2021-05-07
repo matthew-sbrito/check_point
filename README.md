@@ -28,4 +28,4 @@ usuários, excluir usuários.
 - HTML / CSS / JavaScript
 - Bootstrap
 ## Padrão
--Feito em padrão MVC
+- Feito em padrão MVC
